@@ -54,4 +54,4 @@ if __name__ == "__main__":
     print("\n开始整理！。。。。\n")
     path_all_ = find_path(unorganized_report_path)
     move_report(path_all_, organized_report_path)
-    input("\n整理完成！按任意键+回车退出程序")
+    input("\n整理完成！按回车退出程序")

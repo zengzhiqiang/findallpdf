@@ -52,7 +52,7 @@
       <recent name="E:\github\findallpdf" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.findallreport">
+  <component name="RunManager" selected="Python.main">
     <configuration name="findallreport" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="findallpdf" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,8 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.findallreport" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.findallreport" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.findname" />
         <item itemvalue="Python.findallreport4" />
@@ -207,7 +207,8 @@
       <workItem from="1567727491057" duration="263000" />
       <workItem from="1567759725574" duration="916000" />
       <workItem from="1589600604929" duration="534000" />
-      <workItem from="1589625141236" duration="11060000" />
+      <workItem from="1589625141236" duration="11502000" />
+      <workItem from="1589708648917" duration="6938000" />
     </task>
     <servers />
   </component>
@@ -219,29 +220,29 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="601" y="42" key="#findname/0.0.1920.1032@0.0.1920.1032" timestamp="1589600631763" />
-    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1589640378097">
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1589719301698">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589640378097" />
-    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1589640378097">
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589719301698" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1589719301698">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589640378097" />
-    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1589640378097">
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589719301698" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1589719301698">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589640378097" />
-    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1589640378097">
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589719301698" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1589719301698">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589640378097" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589719301698" />
     <state x="336" y="56" key="SettingsEditor" timestamp="1589600660840">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="336" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1589600660840" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/findallpdf$main.coverage" NAME="main Coverage Results" MODIFIED="1589634427438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/findallpdf$main.coverage" NAME="main Coverage Results" MODIFIED="1589716812108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/findallpdf$test.coverage" NAME="test Coverage Results" MODIFIED="1589600669074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/findallpdf$findallreport.coverage" NAME="findallreport Coverage Results" MODIFIED="1589640341029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
